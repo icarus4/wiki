@@ -3,6 +3,7 @@
 - Passenger documantation https://www.phusionpassenger.com/documentation_and_support
 
 # 前置作業
+
 ## Add new user xxx
 ```
 useradd -m username
