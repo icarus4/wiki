@@ -1,0 +1,2 @@
+- 輸入網址，幫你顯示各種解析度的螢幕顯示出來的畫面 http://mattkersley.com/responsive/
+- [WAVE](http://wave.webaim.org/) - 偵測網頁錯誤

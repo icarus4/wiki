@@ -1,0 +1,10 @@
+- [學習 CSS 版面配置](https://doggy8088.github.io/csslayoutsite/index.html)
+- The Runtime Performance Checklist - http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/
+- optimisation
+    - [Critical Rendering Path by google](https://developers.google.com/web/fundamentals/documentation/performance/critical-rendering-path/index)
+- PJAX
+- SEO
+    - [SEO 教戰手冊](http://blog.cgmlife.net/posts/2014/05/23/seo-tutorial)
+    - [蘭亭集勢SEO何以「幹得漂亮」？](http://www.ebrun.com/20140623/102314.shtml)
+- AJAX 網頁可支援上下頁以及 SEO：搜尋 "pushState"
+    - http://moz.com/blog/create-crawlable-link-friendly-ajax-websites-using-pushstate
