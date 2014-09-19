@@ -1,5 +1,22 @@
-# Rollback
-## Example 1
+# Strano
+- [Strano](http://thechangelog.com/strano-github-powered-web-ui-for-capistrano-deployment/) ([Github](https://github.com/joelmoss/strano)) - web UI for Capistrano deployment
+
+# Samson
+- [samson](https://github.com/zendesk/samson) - Web interface for deployments
+
+### View the current status of all your projects:
+![](https://camo.githubusercontent.com/8224187a9a942295e452b572e3c76eb954c13fb3/687474703a2f2f662e636c2e6c792f6974656d732f336e3066306d336a325132343259316b3331314f2f53616d736f6e2e706e67)
+
+### Allow anyone to watch deploys as they happen:
+![](https://camo.githubusercontent.com/b980d661b9299942219fc4ffb7aea2b903fb09eb/687474703a2f2f636c2e6c792f696d6167652f316d3051316b3272314d33322f4d61737465725f6465706c6f795f5f7375636365656465645f2e706e67)
+
+### View all recent deploys across all projects:
+![](https://camo.githubusercontent.com/d3f5942d9ee35e72c8ab5628465e00d9b858f205/687474703a2f2f636c2e6c792f696d6167652f3237306c31653373326531702f53616d736f6e2e706e67)
+
+# Webistrano
+
+# Mina
+## Rollback Example 1
 ```ruby
 desc "Rolls back the latest release"
 task :rollback => :environment do
@@ -24,7 +41,7 @@ task :rollback => :environment do
 end
 ```
 
-## Example 2
+## Rollback Example 2
 ```ruby
 desc "Rolls back the latest release"
 task :rollback => :environment do
