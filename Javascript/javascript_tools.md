@@ -1,0 +1,3 @@
+- 解析、回覆 minify 過的 js 檔 - http://www.jsnice.org/
+- Debug
+    - [Deb.js](https://github.com/krasimir/deb.js) - the Tiniest Debugger in the World
