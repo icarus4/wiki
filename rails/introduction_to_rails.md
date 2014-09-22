@@ -16,6 +16,7 @@
 ### Reasons
 - Ruby
     - 2006年為TIOBE獲選為年度程式語言
+    - 示範 big number 運算
 - Database query, validation 好寫易讀好維護
     - Model association
 - Gem system
@@ -40,6 +41,9 @@
 - 一般而言程度相近的 rails developer vs PHP developer，rails developer生產力約為三倍
 - 一個 Gary 寫 rails 等於 5 Gary 個寫 PHP 的戰力
 -
+
+## 安全
+- 未來要做交易功能，安全非常重要
 
 # Rails vs PHP
 - ActiveRecord 比較
