@@ -1,14 +1,6 @@
 # Table of Content
 [TOC]
 
-
-# 待看教學文章
-
-- [How I learned to test my Rails applications](http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html)
-- [RSpec - iprug-rspec-presentation](http://kerryb.github.io/iprug-rspec-presentation/) by Kerry Buckley
-- Better Specs [Chinese](http://betterspecs.org/zh_tw/) / [English](http://betterspecs.org/)
-- RSpec 讓你愛上寫測試 by iHower http://www.slideshare.net/ihower/rspec-7394497
-
 # 學習清單
 - Mocks 和 Stubs
 - 如何建立測試資料 Factory Girl v.s. Fixture
@@ -23,6 +15,18 @@
     - simplecov
 - ATDD 和 Cucumber
 
+
+# 待看教學文章
+
+- [How I learned to test my Rails applications](http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html)
+- [RSpec - iprug-rspec-presentation](http://kerryb.github.io/iprug-rspec-presentation/) by Kerry Buckley
+- Better Specs [Chinese](http://betterspecs.org/zh_tw/) / [English](http://betterspecs.org/)
+- RSpec 讓你愛上寫測試 by iHower http://www.slideshare.net/ihower/rspec-7394497
+
+
+# 好書推薦
+- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) ([中文](https://leanpub.com/everydayrailsrspec-cn))
+-
 
 # Tutorial Articles
 - Refactor rspec using subject and let
