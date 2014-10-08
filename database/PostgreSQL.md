@@ -67,20 +67,30 @@ sudo -u postgres psql postgres
 psql -U username -d dbname -h 127.0.0.1
 ```
 
-## 常用psql指令
-list all DBs `\l`
+## 常用指令
+- list all DBs `\l`
 
-list all tables `\dt`
+- list all tables `\dt`
 
-連接DB `\c [db name]`
+- 連接DB `\c [db name]`
 
-SHOW TABLES `\d`
+- SHOW TABLES `\d`
 
-SHOW DATABASES `\l`
+- SHOW DATABASES `\l`
 
-SHOW COLUMNS `\d table`
+- SHOW COLUMNS `\d table`
 
-DESCRIBE TABLE `\d+ table`
+- DESCRIBE TABLE `\d+ table`
+
+### ROLE 操作
+- Reference
+  - [How To Use Roles and Manage Grant Permissions in PostgreSQL on a VPS](https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-grant-permissions-in-postgresql-on-a-vps--2)
+
+賦予 user 操作某 db 的所有權限 `GRANT ALL PRIVILEGES ON DATABASE [DB name] to [user name];`
+
+查看 role 權限 `\du`
+
+砍掉 role `DROP ROLE role_name;`
 
 # Reference
 - [Mac 下 PostgreSQL 的安裝與使用](http://dhq.me/mac-postgresql-install-usage)

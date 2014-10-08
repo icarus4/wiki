@@ -1,0 +1,1 @@
+- [Convert String to Binary in Ruby](http://blog.anidear.com/2011/11/convert-string-to-binary-in-ruby.html)
